@@ -1,0 +1,4 @@
+GitHub device login (gh auth login)
+One-time code: 0AD8-D608
+Open: https://github.com/login/device
+Enter the code above, authorize for @qiangsi, then tell the bot to continue the push.
